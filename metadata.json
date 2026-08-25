@@ -1,0 +1,6 @@
+{
+  "name": "USA Consignee & Customs Trade Intelligence Bot",
+  "description": "Live US Consignee profiling and trade intelligence engine powered by CBP manifest data, ImportYeti, ocean bills of lading, shipper networks, trade lanes, commodities, and verified contact extraction with bulk Excel import and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
